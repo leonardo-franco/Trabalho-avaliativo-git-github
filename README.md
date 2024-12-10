@@ -2,6 +2,6 @@
 
 # Integrantes
 
-Leonardo Franco Lima
-Vínicius de Paula de Barros
-Gustavo Borba Schiavo
+Leonardo Franco Lima <br>
+Vínicius de Paula de Barros <br>
+Gustavo Borba Schiavo <br>
